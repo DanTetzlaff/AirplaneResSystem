@@ -1,0 +1,14 @@
+5
+WAAW
+WMAAMW
+WMAAMW
+WAAW
+WMAAMW
+1,2,Meena Cat,22,Halal
+1,3,John Doe,26,Fish
+2,3,Jordan Kidney,32,Vegan
+2,6,Bruce Campbell,56,Kosher
+3,4,Jain Doe,18,Chiken
+4,3,Lazarus,1000,Vegan
+5,1,Kadesia Morrie,72,Beef
+

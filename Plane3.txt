@@ -1,0 +1,17 @@
+9
+WMMAMMAMMW
+WMMAAMMW
+WMMAMMAMMW
+WMMAMMAMMW
+WAMMAW
+WMMAMMAMMW
+WMMW
+WMW
+WW
+2,3,Jordan Kidney,32,Vegan
+1,4,Meena Cat,22,Halal 
+1,2,John Doe,26,Fish 
+3,4,Jain Doe,18,Chiken 
+5,1,Kadesia Morrie,72,Beef 
+9,2,Lazarus,1000,Vegan 
+9,1,Bruce Campbell,56,Kosher 
